@@ -1,0 +1,20 @@
+*{
+  padding:2px;
+}
+
+.list-group-item {
+    border-color: #ccc;
+    border-bottom-width: 1px;
+}
+#com-date {
+    color: #bbb;
+    font-size: 1em;
+}
+#com-writer {
+    color: #556;
+    font-size: 2em;
+}
+
+#com-message{
+   color:#666;
+}
